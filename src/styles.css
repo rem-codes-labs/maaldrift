@@ -1,0 +1,15 @@
+:root {
+  --color-ink: #101423;
+  --color-paper: #f7f7f9;
+  --color-accent: #0ea5e9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
